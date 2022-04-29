@@ -2,7 +2,7 @@
 Aulas do curso Primeiros passos com .NET com o Professor = 
 
 
-Plugins Recomendados pelo professor: 
+Plugins Recomendados pelo professor: <a href="https://github.com/gabrielfaraday">Gabriel Faraday</a>
 
 ![image](https://user-images.githubusercontent.com/57269883/165848797-adc375a6-e4df-4edb-a0ca-fdddc046a2ba.png)
 
